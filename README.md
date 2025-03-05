@@ -102,8 +102,8 @@ Before building the project, ensure that the following dependencies are installe
 First, clone the repository to your local machine:
 
 ```bash 
-git clone https://github.com/mohamedsamirx/YOLO-OBB-CPP.git
-cd YOLO-OBB-CPP
+git clone https://github.com/mohamedsamirx/YOLO_OBB_CPP.git
+cd YOLO_OBB_CPP
 ```
 
 
